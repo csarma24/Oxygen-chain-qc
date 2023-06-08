@@ -1,4 +1,4 @@
 pennylane>=0.30
 qiskit
-ionizer git+https://github.com/QSAR-UBC/ionizer@main
+git+https://github.com/QSAR-UBC/ionizer@main
 matplotlib
