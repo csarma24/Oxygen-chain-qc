@@ -2,3 +2,4 @@ pennylane>=0.30
 qiskit
 git+https://github.com/QSAR-UBC/ionizer@main
 matplotlib
+torch
