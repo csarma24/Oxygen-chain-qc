@@ -157,7 +157,6 @@ def compute_expal_and_std(h_tapered, job_results, shots=1000, show_plots=False):
                 total_var += 2 * group_coeffs[i] * group_coeffs[j] \
                     * covmat[i, j]
 
-        # SEM^2 for this group is the total variance over number of shots
         cumulative_var += total_var
 
         if show_plots:
