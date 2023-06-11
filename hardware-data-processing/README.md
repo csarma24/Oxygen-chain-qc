@@ -1,0 +1,3 @@
+This directory contains the raw measurement data (with 1000 shots) for the 8 different VQE circuits (one per qubit-wise commuting group of Pauli observables) executed for each isotope with and without (`_zne`) gate folding for zero-noise extrapolation.
+
+The notebooks used to obtain the final expectation (ground state energy) values and standard deviations (using bootstrapped Monte Carlo) sampling are also included. See `Process-HW-Results.ipynb` and `Process-HW-Simulation-Results.ipynb`
