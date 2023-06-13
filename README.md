@@ -1,7 +1,7 @@
-# Prediction of oxygen drip line using quantum computation
+# Prediction of the neutron drip line in oxygen isotopes using quantum computation
 
 This repository contains the scripts and notebooks used to generate and process
-the data from our preprint XXXX.
+the data from our preprint https://arxiv.org/abs/2306.06432.
 
 Packages can be installed from the `requirements.txt`.
 
